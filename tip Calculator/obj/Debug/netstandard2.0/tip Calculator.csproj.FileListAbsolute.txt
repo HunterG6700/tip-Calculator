@@ -1,0 +1,15 @@
+D:\footb\Documents\Classes\Fall 2021\Mobile App\tip Calculator\tip Calculator\bin\Debug\netstandard2.0\tip Calculator.deps.json
+D:\footb\Documents\Classes\Fall 2021\Mobile App\tip Calculator\tip Calculator\bin\Debug\netstandard2.0\tip Calculator.dll
+D:\footb\Documents\Classes\Fall 2021\Mobile App\tip Calculator\tip Calculator\bin\Debug\netstandard2.0\ref\tip Calculator.dll
+D:\footb\Documents\Classes\Fall 2021\Mobile App\tip Calculator\tip Calculator\bin\Debug\netstandard2.0\tip Calculator.pdb
+D:\footb\Documents\Classes\Fall 2021\Mobile App\tip Calculator\tip Calculator\obj\Debug\netstandard2.0\tip Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\footb\Documents\Classes\Fall 2021\Mobile App\tip Calculator\tip Calculator\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\footb\Documents\Classes\Fall 2021\Mobile App\tip Calculator\tip Calculator\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\footb\Documents\Classes\Fall 2021\Mobile App\tip Calculator\tip Calculator\obj\Debug\netstandard2.0\tip Calculator.AssemblyInfoInputs.cache
+D:\footb\Documents\Classes\Fall 2021\Mobile App\tip Calculator\tip Calculator\obj\Debug\netstandard2.0\tip Calculator.AssemblyInfo.cs
+D:\footb\Documents\Classes\Fall 2021\Mobile App\tip Calculator\tip Calculator\obj\Debug\netstandard2.0\tip Calculator.csproj.CoreCompileInputs.cache
+D:\footb\Documents\Classes\Fall 2021\Mobile App\tip Calculator\tip Calculator\obj\Debug\netstandard2.0\XamlC.stamp
+D:\footb\Documents\Classes\Fall 2021\Mobile App\tip Calculator\tip Calculator\obj\Debug\netstandard2.0\tip Calculator.dll
+D:\footb\Documents\Classes\Fall 2021\Mobile App\tip Calculator\tip Calculator\obj\Debug\netstandard2.0\ref\tip Calculator.dll
+D:\footb\Documents\Classes\Fall 2021\Mobile App\tip Calculator\tip Calculator\obj\Debug\netstandard2.0\tip Calculator.pdb
+D:\footb\Documents\Classes\Fall 2021\Mobile App\tip Calculator\tip Calculator\obj\Debug\netstandard2.0\tip Calculator.csproj.AssemblyReference.cache

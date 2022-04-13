@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "Hn9kaSzt55Ab38hSICFqTh574zjjmj2xWU/R1zuQq9k3iC8OBcufLqSzqIZ5/XYxRAzgQ/9a5CE1JEdji8ObkQ==",
+  "success": true,
+  "projectFilePath": "D:\\footb\\Documents\\Classes\\Fall 2021\\Mobile App\\tip Calculator\\tip Calculator\\tip Calculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\footb\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\footb\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\footb\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}
